@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hero Born",
+"productVersion": "0.1",
+"dataUrl": "GUI Update.data.unityweb",
+"wasmCodeUrl": "GUI Update.wasm.code.unityweb",
+"wasmFrameworkUrl": "GUI Update.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
